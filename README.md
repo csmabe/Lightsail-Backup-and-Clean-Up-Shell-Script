@@ -13,7 +13,7 @@ This script will take in three arguments.
 
 To execute the script:
 
-'$ bash lightsail-backup.sh [instance] [region] [backups kept] '
+'$ bash lightsail-backup.sh <instance> [backups kept] [region] '
 
 ## Scheduling Backups
 
